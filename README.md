@@ -1,4 +1,4 @@
-# ERA5-to-CERRA-via-diffusion-models
+# ERA5-to-CERRA-Via-Diffusion-Models
 This repository is an unofficial implementation of the paper [Wind speed super-resolution and validation: from ERA5 to CERRA via diffusion models](https://link.springer.com/article/10.1007/s00521-024-10139-9) by Merizzi et al. 
 
 The original repository of the paper can be found [here](https://github.com/fmerizzi/ERA5-to-CERRA-via-Diffusion-Models/).
