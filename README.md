@@ -75,6 +75,4 @@ Evaluate a trained checkpoint on the validation or test split with `evaluate.py`
 ```bash
 python evaluate.py --checkpoint checkpoints/epoch_200.pt --split test --diffusion_steps 20 --n_samples 200
 ```
-
-Run `python evaluate.py --help` for the full list of options.
-
+![eval_sample](assets/eval_sample.png)
