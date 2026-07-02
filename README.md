@@ -76,3 +76,10 @@ Evaluate a trained checkpoint on the validation or test split with `evaluate.py`
 python evaluate.py --checkpoint checkpoints/epoch_200.pt --split test --diffusion_steps 20 --n_samples 200
 ```
 ![eval_sample](assets/eval_sample.png)
+
+## Acknowledgments
+This work is based on the following paper:
+
+> Merizzi, F., Asperti, A. & Colamonaco, S. Wind speed super-resolution and validation: from ERA5 to CERRA via diffusion models. *Neural Computing and Applications* 36, 21899-21921 (2024). https://doi.org/10.1007/s00521-024-10139-9
+
+Credit goes to Fabio Merizzi, Andrea Asperti and Stefano Colamonaco for the original research and for making their [reference implementation](https://github.com/fmerizzi/ERA5-to-CERRA-via-Diffusion-Models/) publicly available.
