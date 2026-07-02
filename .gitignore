@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.vscode
+# --- #
+data/era5
+data/cerra
+data/processed
+checkpoints/

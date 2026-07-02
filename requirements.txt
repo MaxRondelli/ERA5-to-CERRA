@@ -1,0 +1,13 @@
+torch>=2.2.0
+torchvision
+numpy>=1.26
+scipy
+pandas
+scikit-image
+matplotlib
+xarray>=2024.1.0
+netCDF4
+h5py
+cdsapi
+dask
+tqdm
